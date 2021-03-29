@@ -5,11 +5,13 @@
 
 1.1 OBJETIVOS GENERALES
 
-* 
+* Analizar e introducir lo que significa la aplicacion de un sistema trifásico aplicado en potencias.
 
 1.2 OBJETIVOS ESPECIFICOS
 
-* 
+* Analizar las ventajas y las conexiones que proporcionan los generadores trifásicos.
+* Analizar mediciones de potencia en sistemas trifásicos.
+* Analizar generadores trifásicos con cargas trifásicas.
 
 2. MARCO TEORICO
 
