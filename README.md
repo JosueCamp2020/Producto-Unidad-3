@@ -40,6 +40,6 @@ LINK EJERCICIOS: https://github.com/JosueCamp2020/Producto-Unidad-3/blob/main/An
 
 LINK ARTICULO: https://github.com/JosueCamp2020/Producto-Unidad-3/blob/main/Articulo/ArticuloProductoUnidad3.pdf
 
-LINK VIDEO:
+LINK VIDEO: https://github.com/JosueCamp2020/Producto-Unidad-3/blob/main/Video/VideoLink
 
 LINK APORTACIONES: https://github.com/JosueCamp2020/Producto-Unidad-3/blob/main/Aportaciones/AportacioneLinkVideo
