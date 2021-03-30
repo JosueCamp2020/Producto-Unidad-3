@@ -19,7 +19,7 @@
 
 3. DIAGRAMAS/EJERCICIOS
 
-LINK EJERCICIOS: 
+LINK EJERCICIOS: https://github.com/JosueCamp2020/Producto-Unidad-3/blob/main/Anexos/Producto%20Unidad%203.pdf
 
 4. CONCLUSIONES
 
@@ -38,7 +38,7 @@ LINK EJERCICIOS:
 
 6. ANEXOS
 
-LINK ARTICULO: 
+LINK ARTICULO: https://github.com/JosueCamp2020/Producto-Unidad-3/blob/main/Articulo/ArticuloProductoUnidad3.pdf
 
 LINK VIDEO:
 
